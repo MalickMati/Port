@@ -83,9 +83,9 @@ ul li a {
 }
 
 ul li a:hover {
-  border-top-color: var(--secondary-color);
-  border-bottom-color: var(--secondary-color);
-  color: var(--secondary-color);
+  border-top-color: var(--primary-color);
+  border-bottom-color: var(--primary-color);
+  color: var(--primary-color);
 }
 
 .section {
